@@ -17,7 +17,7 @@
   </dependencies>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <sonar.organization>iranna-1233</sonar.organization>
+    <<sonar.organization>iranna1233-1</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
   <build>
